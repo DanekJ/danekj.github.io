@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Actually Obvious</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://127.0.0.1:4000" />
+<updated>2015-03-16T22:30:23+01:00</updated>
+<id>http://127.0.0.1:4000/</id>
+<author>
+  <name>Jakub Danek</name>
+  <uri>http://127.0.0.1:4000/</uri>
+  <email>danek.ja@gmail.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Yet Another Helsinki Trip]]></title>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/blog/helsinki-again/" />
+  <id>http://127.0.0.1:4000/blog/helsinki-again</id>
+  <published>2015-03-15T00:00:00+01:00</published>
+  <updated>2015-03-15T00:00:00+01:00</updated>
+  <author>
+    <name>Jakub Danek</name>
+    <uri>http://127.0.0.1:4000</uri>
+    <email>danek.ja@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;One would think that after spending so much time in Helsinki, there is not too much to be discovered. Well, I’ve been
+proven wrong once again. &lt;/p&gt;
+
+&lt;h3 id=&quot;need-a-place-to-crash&quot;&gt;Need a place to crash?&lt;/h3&gt;
+&lt;p&gt;It is a notorious fact that hotels and accommodation services in general are awfully expensive
+in Finland (comparing to mid-european countries or even Austria and Germany). What was my surprise when
+I learned from my contractor that my apartment costs only about 40 EUR / night and, that is the best part, it is
+only 5 minutes walk from Kamppi (central bus station located in the middle of the city). Sounds too good to be true, hey?&lt;/p&gt;
+
+&lt;p&gt;Well, as many other things in Finland, such miracles actually do exist and they usually are as good as they seem to be. I’ve just
+realized I haven’t taken any pictures of the apartment, so the plain old description will have to do:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.citykoti.com&quot;&gt;TL;DR: it’s awesome, I can recommend it to fellow travellers. Check them out!&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The apartment consisted of a tiny entry hall (about 1 - 2 square meters), tiny bathroom (about 4 square meters) and
+one regular room, which could’ve been about 16 square meters. These tiny apartments are nothing unusual in Finland, yet
+this one was the first I’ve considered actually comfy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The place had everything - cooker, refrigerator, coffee machine, dishwasher. Enough space to prepare and eat meals. 
+Large double bed. TV, wireless… Washing machine in the bathroom….&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Altogether, the apartment is just fine for a single person or a couple which returns there only to spend the night. I 
+can imagine that over a longer period of time the lack of proper “workspace” would become annoying and in case of two
+people living together, also the lack of privacy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;those-tiny-moments&quot;&gt;Those tiny moments&lt;/h3&gt;
+&lt;p&gt;As any other place in the World, Helsinki have their moments of beauty. I had been lucky enough to catch a few of those during this
+stay - spring is obviously coming to Finland. Even if the sunny boulevards weren’t enough, the street artist performing
+Antonio Vivaldi’s Four Seasons (guess which parts in particular) was definitely the most welcome proof.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.zonerama.com/Embed/Album/587555?color=gray-dark&amp;amp;autoplay=false&amp;amp;vertical=false&quot; style=&quot;width: 720px; height: 330px;&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Yet, as a very close friend told me recently - “All the things must come to an end” - hence I took my departure to Vantaa
+airport and left the country once again.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/blog/helsinki-again/&quot;&gt;Yet Another Helsinki Trip&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Actually Obvious&lt;/a&gt; on March 15, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
