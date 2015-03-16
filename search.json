@@ -3,7 +3,7 @@
   
     {
       "title"			: "Yet Another Helsinki Trip",
-      "link"			: "http://127.0.0.1:4000/blog/helsinki-again/",
+      "link"			: "http://danekja.github.io//blog/helsinki-again/",
       "excerpt"		: "One would think that after spending so much time in Helsinki, there is not too much to be discovered. Well, I've been proven wrong once again."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "About Me",
-      "link"			: "http://127.0.0.1:4000/about/",
+      "link"			: "http://danekja.github.io//about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
