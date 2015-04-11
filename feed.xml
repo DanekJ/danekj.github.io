@@ -4,13 +4,65 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://danekja.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://danekja.github.io" />
-<updated>2015-04-08T13:11:02+02:00</updated>
+<updated>2015-04-11T14:22:39+02:00</updated>
 <id>http://danekja.github.io/</id>
 <author>
   <name>Jakub Danek</name>
   <uri>http://danekja.github.io/</uri>
   <email>danek.ja@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Git Merge 2015 in Paris - The Social]]></title>
+  <link rel="alternate" type="text/html" href="http://danekja.github.io/blog/gitmerge-social/" />
+  <id>http://danekja.github.io/blog/gitmerge-social</id>
+  <published>2015-04-11T00:00:00+02:00</published>
+  <updated>2015-04-11T00:00:00+02:00</updated>
+  <author>
+    <name>Jakub Danek</name>
+    <uri>http://danekja.github.io</uri>
+    <email>danek.ja@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Git Merge conference is over and now is the good time to sum up what’s been about. Of course we have seen many great
+keynotes, some more interesting than other, yet all benefitial to some point. But there was so much more - I’ve personally
+met several very interesting people from all over the world, seen the magical city of Paris and had a wonderful time.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So this is probably the place I thank all the organisers, GitHub, Atlassian, Microsoft and everyone involved for the great
+experience.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;feeling-the-community&quot;&gt;Feeling the community&lt;/h2&gt;
+&lt;p&gt;Great thing about Git Merge was its format - 30-minute presentations followed by a 15-minute break was just the right thing
+ to keep speeches focused and interesting and to allow the audience to approach the speekers afterwards with more or less
+ related topics. That was actually another awesome part of the conference - all the speakers were open to anyone who wanted
+ to reach out which really created the feeling of being one community. Me personally had a nice chat with Emma Jane (@emmajanehw)
+ about her new book and she provided nice tips how-to approach university students with the topic of version
+ control and git. &lt;em&gt;Thanks!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-reservoir-dogs&quot;&gt;The Reservoir Dogs&lt;/h2&gt;
+&lt;p&gt;The organisers promoted the community-thing in a very efficient manner - they organised guided tours for us a day prior to the main event.
+ The groups should’ve been formed based on personal interests - history, architecture or art. The biggest group formed around the “history-focused” 
+tour, who coincidentally happened to be the only one lead by a woman. What a coincidence, hey? No need to say which group I was on,
+is there?                                                                                                                &lt;/p&gt;
+
+&lt;p&gt;The tour itself was very interesting, Eva (our guide) knew the district and its history well and she shown us a few beautiful, 
+yet hidden places. Isles of peace in the heart of the city. And of course, most of our group finished the tour in a bar.
+Afterwards, we sought each other out during the main event and the afterparty as well, almost as if we came to the conference together.
+The experience itself reminded me of my Erasmus days couple years back.&lt;/p&gt;
+
+&lt;p&gt;Of course, it wasn’t easy to remember everyone’s names, so as we discovered shared interest in Tarantino’s movies, we 
+started to use &lt;strong&gt;Mr. Brittish&lt;/strong&gt;, &lt;strong&gt;Mr. French&lt;/strong&gt;, &lt;strong&gt;Mr. Belgium (the infamous Mr. Pink)&lt;/strong&gt;, etc.
+ Luckily, there was one guy per country, except for the Italians. But they were always together, thus it worked just fine :).&lt;/p&gt;
+
+&lt;p&gt;So once again - thanks everyone involved for the great experience of Git Merge 2015!&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://danekja.github.io/blog/gitmerge-social/&quot;&gt;Git Merge 2015 in Paris - The Social&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://danekja.github.io&quot;&gt;Actually Obvious&lt;/a&gt; on April 11, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
