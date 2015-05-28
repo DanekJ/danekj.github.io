@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Actually Obvious</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://danekja.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://danekja.github.io" />
-<updated>2015-04-11T14:22:39+02:00</updated>
-<id>http://danekja.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://blog.danekja.org/feed.xml" />
+<link rel="alternate" type="text/html" href="http://blog.danekja.org" />
+<updated>2015-05-28T23:04:35+02:00</updated>
+<id>http://blog.danekja.org/</id>
 <author>
   <name>Jakub Danek</name>
-  <uri>http://danekja.github.io/</uri>
+  <uri>http://blog.danekja.org/</uri>
   <email>danek.ja@gmail.com</email>
 </author>
 
@@ -16,14 +16,52 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Paris Spring 2015 in Pictures]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.danekja.org/blog/paris-photos/" />
+  <id>http://blog.danekja.org/blog/paris-photos</id>
+  <published>2015-05-28T00:00:00+02:00</published>
+  <updated>2015-05-28T00:00:00+02:00</updated>
+  <author>
+    <name>Jakub Danek</name>
+    <uri>http://blog.danekja.org</uri>
+    <email>danek.ja@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;It took a while, but I’ve finally went through all the pictures from Paris. Here they are, together with a few 
+ breadcrumbs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I liked the shopping culture with all the bakeries, butcher’s, small groceries and no supermarkets;&lt;/li&gt;
+  &lt;li&gt;I didn’t like the commercial feeling of Paris churches and cathedrals. Attended evening mass and even to me, 
+ an atheist, it felt like a bad joke;&lt;/li&gt;
+  &lt;li&gt;Even on rainy mornings parks are full of people - yoga, jogging. Still wonder what was that passing-by girl shouting at me, smiling.
+ It was in French…&lt;/li&gt;
+  &lt;li&gt;Seeing armed soldiers in the streets and subway doesn’t make you feel safe;&lt;/li&gt;
+  &lt;li&gt;A violin-playing elderly man brightens up rather dull train trip to the airport;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And last - except for the lady at the airport public transport kiosk, I haven’t met a single person unwilling to speak
+english or give a help to a tourist. Maybe I got lucky, maybe it’s just an urban legend :).&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.zonerama.com/Embed/Album/638593?color=green&amp;amp;autoplay=false&amp;amp;vertical=false&quot; style=&quot;width: 720px; height: 330px;&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.danekja.org/blog/paris-photos/&quot;&gt;Paris Spring 2015 in Pictures&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://blog.danekja.org&quot;&gt;Actually Obvious&lt;/a&gt; on May 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Git Merge 2015 in Paris - The Social]]></title>
-  <link rel="alternate" type="text/html" href="http://danekja.github.io/blog/gitmerge-social/" />
-  <id>http://danekja.github.io/blog/gitmerge-social</id>
+  <link rel="alternate" type="text/html" href="http://blog.danekja.org/blog/gitmerge-social/" />
+  <id>http://blog.danekja.org/blog/gitmerge-social</id>
   <published>2015-04-11T00:00:00+02:00</published>
   <updated>2015-04-11T00:00:00+02:00</updated>
   <author>
     <name>Jakub Danek</name>
-    <uri>http://danekja.github.io</uri>
+    <uri>http://blog.danekja.org</uri>
     <email>danek.ja@gmail.com</email>
   </author>
   <content type="html">
@@ -60,7 +98,7 @@ started to use &lt;strong&gt;Mr. Brittish&lt;/strong&gt;, &lt;strong&gt;Mr. Fren
 &lt;p&gt;So once again - thanks everyone involved for the great experience of Git Merge 2015!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://danekja.github.io/blog/gitmerge-social/&quot;&gt;Git Merge 2015 in Paris - The Social&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://danekja.github.io&quot;&gt;Actually Obvious&lt;/a&gt; on April 11, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.danekja.org/blog/gitmerge-social/&quot;&gt;Git Merge 2015 in Paris - The Social&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://blog.danekja.org&quot;&gt;Actually Obvious&lt;/a&gt; on April 11, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -69,13 +107,13 @@ started to use &lt;strong&gt;Mr. Brittish&lt;/strong&gt;, &lt;strong&gt;Mr. Fren
 
 <entry>
   <title type="html"><![CDATA[Git Merge 2015 in Paris - Day 0]]></title>
-  <link rel="alternate" type="text/html" href="http://danekja.github.io/blog/gitmerge-day-0/" />
-  <id>http://danekja.github.io/blog/gitmerge-day-0</id>
+  <link rel="alternate" type="text/html" href="http://blog.danekja.org/blog/gitmerge-day-0/" />
+  <id>http://blog.danekja.org/blog/gitmerge-day-0</id>
   <published>2015-04-07T00:00:00+02:00</published>
   <updated>2015-04-07T00:00:00+02:00</updated>
   <author>
     <name>Jakub Danek</name>
-    <uri>http://danekja.github.io</uri>
+    <uri>http://blog.danekja.org</uri>
     <email>danek.ja@gmail.com</email>
   </author>
   <content type="html">
@@ -131,7 +169,7 @@ booking details:&lt;code&gt;You&#39;ll be charged by the hotel in the local curr
 
 &lt;p&gt;Now I can’t wait for the tomorrows start of the Git Merge 2015!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://danekja.github.io/blog/gitmerge-day-0/&quot;&gt;Git Merge 2015 in Paris - Day 0&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://danekja.github.io&quot;&gt;Actually Obvious&lt;/a&gt; on April 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.danekja.org/blog/gitmerge-day-0/&quot;&gt;Git Merge 2015 in Paris - Day 0&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://blog.danekja.org&quot;&gt;Actually Obvious&lt;/a&gt; on April 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -140,13 +178,13 @@ booking details:&lt;code&gt;You&#39;ll be charged by the hotel in the local curr
 
 <entry>
   <title type="html"><![CDATA[Postmodern Jukebox Tour]]></title>
-  <link rel="alternate" type="text/html" href="http://danekja.github.io/blog/pmjtour-prague/" />
-  <id>http://danekja.github.io/blog/pmjtour-prague</id>
+  <link rel="alternate" type="text/html" href="http://blog.danekja.org/blog/pmjtour-prague/" />
+  <id>http://blog.danekja.org/blog/pmjtour-prague</id>
   <published>2015-03-18T00:00:00+01:00</published>
   <updated>2015-03-18T00:00:00+01:00</updated>
   <author>
     <name>Jakub Danek</name>
-    <uri>http://danekja.github.io</uri>
+    <uri>http://blog.danekja.org</uri>
     <email>danek.ja@gmail.com</email>
   </author>
   <content type="html">
@@ -196,7 +234,7 @@ all coming back to Prague soon. ‘Cause you are too fabulous for not coming bac
 &lt;p&gt;P.S: No pictures today, because I’m the moron who forgot his camera at home and cellphone didn’t cope with the conditions 
  (surprise, surprise).&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://danekja.github.io/blog/pmjtour-prague/&quot;&gt;Postmodern Jukebox Tour&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://danekja.github.io&quot;&gt;Actually Obvious&lt;/a&gt; on March 18, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.danekja.org/blog/pmjtour-prague/&quot;&gt;Postmodern Jukebox Tour&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://blog.danekja.org&quot;&gt;Actually Obvious&lt;/a&gt; on March 18, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -205,13 +243,13 @@ all coming back to Prague soon. ‘Cause you are too fabulous for not coming bac
 
 <entry>
   <title type="html"><![CDATA[Yet Another Helsinki Trip]]></title>
-  <link rel="alternate" type="text/html" href="http://danekja.github.io/blog/helsinki-again/" />
-  <id>http://danekja.github.io/blog/helsinki-again</id>
+  <link rel="alternate" type="text/html" href="http://blog.danekja.org/blog/helsinki-again/" />
+  <id>http://blog.danekja.org/blog/helsinki-again</id>
   <published>2015-03-15T00:00:00+01:00</published>
   <updated>2015-03-15T00:00:00+01:00</updated>
   <author>
     <name>Jakub Danek</name>
-    <uri>http://danekja.github.io</uri>
+    <uri>http://blog.danekja.org</uri>
     <email>danek.ja@gmail.com</email>
   </author>
   <content type="html">
@@ -250,7 +288,7 @@ Antonio Vivaldi’s Four Seasons (guess which parts in particular) was definitel
 &lt;p&gt;Yet, as a very close friend told me recently - “All the things must come to an end” - hence I took my departure to Vantaa
 airport and left the country once again.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://danekja.github.io/blog/helsinki-again/&quot;&gt;Yet Another Helsinki Trip&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://danekja.github.io&quot;&gt;Actually Obvious&lt;/a&gt; on March 15, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.danekja.org/blog/helsinki-again/&quot;&gt;Yet Another Helsinki Trip&lt;/a&gt; was originally published by Jakub Danek at &lt;a href=&quot;http://blog.danekja.org&quot;&gt;Actually Obvious&lt;/a&gt; on March 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 

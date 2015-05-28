@@ -2,8 +2,16 @@
 
   
     {
+      "title"			: "Paris Spring 2015 in Pictures",
+      "link"			: "http://blog.danekja.org/blog/paris-photos/",
+      "excerpt"		: "Say no more..."
+    }
+  
+
+  
+    ,{
       "title"			: "Git Merge 2015 in Paris - The Social",
-      "link"			: "http://danekja.github.io/blog/gitmerge-social/",
+      "link"			: "http://blog.danekja.org/blog/gitmerge-social/",
       "excerpt"		: "Git Merge was one of those events where Reservoir Dogs can be started."
     }
   
@@ -11,7 +19,7 @@
   
     ,{
       "title"			: "Git Merge 2015 in Paris - Day 0",
-      "link"			: "http://danekja.github.io/blog/gitmerge-day-0/",
+      "link"			: "http://blog.danekja.org/blog/gitmerge-day-0/",
       "excerpt"		: "Some arrivals are more thrilling than other."
     }
   
@@ -19,7 +27,7 @@
   
     ,{
       "title"			: "Postmodern Jukebox Tour",
-      "link"			: "http://danekja.github.io/blog/pmjtour-prague/",
+      "link"			: "http://blog.danekja.org/blog/pmjtour-prague/",
       "excerpt"		: "Postmodern Jukebox rocked Prague and we rolled with 'em"
     }
   
@@ -27,7 +35,7 @@
   
     ,{
       "title"			: "Yet Another Helsinki Trip",
-      "link"			: "http://danekja.github.io/blog/helsinki-again/",
+      "link"			: "http://blog.danekja.org/blog/helsinki-again/",
       "excerpt"		: "One would think that after spending so much time in Helsinki, there is not too much to be discovered. Well, I've been proven wrong once again."
     }
   
@@ -43,7 +51,7 @@
   
     ,{
       "title"			: "About Me",
-      "link"			: "http://danekja.github.io/about/",
+      "link"			: "http://blog.danekja.org/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
