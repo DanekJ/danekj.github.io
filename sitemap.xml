@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.danekja.org/blog/high-tatra-photos/</loc>
+    <loc>http://www.danekja.org/blog/high-tatra-photos/</loc>
     <lastmod>2016-01-24T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/paris-photos/</loc>
+    <loc>http://www.danekja.org/blog/paris-photos/</loc>
     <lastmod>2015-05-28T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/gitmerge-social/</loc>
+    <loc>http://www.danekja.org/blog/gitmerge-social/</loc>
     <lastmod>2015-04-11T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/gitmerge-day-0/</loc>
+    <loc>http://www.danekja.org/blog/gitmerge-day-0/</loc>
     <lastmod>2015-04-07T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/pmjtour-prague/</loc>
+    <loc>http://www.danekja.org/blog/pmjtour-prague/</loc>
     <lastmod>2015-03-18T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/helsinki-again/</loc>
+    <loc>http://www.danekja.org/blog/helsinki-again/</loc>
     <lastmod>2015-03-15T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/</loc>
-    <lastmod>2016-01-21T03:50:43+01:00</lastmod>
+    <loc>http://www.danekja.org/</loc>
+    <lastmod>2016-11-04T00:49:43+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/about/</loc>
-    <lastmod>2016-01-21T03:50:43+01:00</lastmod>
+    <loc>http://www.danekja.org/about/</loc>
+    <lastmod>2016-11-04T00:49:43+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/tags/</loc>
-    <lastmod>2016-01-21T03:50:43+01:00</lastmod>
+    <loc>http://www.danekja.org/tags/</loc>
+    <lastmod>2016-11-04T00:49:43+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/articles/</loc>
-    <lastmod>2016-01-21T03:50:43+01:00</lastmod>
+    <loc>http://www.danekja.org/articles/</loc>
+    <lastmod>2016-11-04T00:49:43+01:00</lastmod>
   </url>
   <url>
-    <loc>http://blog.danekja.org/blog/</loc>
-    <lastmod>2016-01-21T03:50:43+01:00</lastmod>
+    <loc>http://www.danekja.org/blog/</loc>
+    <lastmod>2016-11-04T00:49:43+01:00</lastmod>
   </url>
 </urlset>

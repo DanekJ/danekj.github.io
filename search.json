@@ -3,7 +3,7 @@
   
     {
       "title"			: "High Tatra 2015 in Pictures",
-      "link"			: "http://blog.danekja.org/blog/high-tatra-photos/",
+      "link"			: "http://www.danekja.org/blog/high-tatra-photos/",
       "excerpt"		: "Say no more..."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Paris Spring 2015 in Pictures",
-      "link"			: "http://blog.danekja.org/blog/paris-photos/",
+      "link"			: "http://www.danekja.org/blog/paris-photos/",
       "excerpt"		: "Say no more..."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Git Merge 2015 in Paris - The Social",
-      "link"			: "http://blog.danekja.org/blog/gitmerge-social/",
+      "link"			: "http://www.danekja.org/blog/gitmerge-social/",
       "excerpt"		: "Git Merge was one of those events where Reservoir Dogs can be started."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Git Merge 2015 in Paris - Day 0",
-      "link"			: "http://blog.danekja.org/blog/gitmerge-day-0/",
+      "link"			: "http://www.danekja.org/blog/gitmerge-day-0/",
       "excerpt"		: "Some arrivals are more thrilling than other."
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "Postmodern Jukebox Tour",
-      "link"			: "http://blog.danekja.org/blog/pmjtour-prague/",
+      "link"			: "http://www.danekja.org/blog/pmjtour-prague/",
       "excerpt"		: "Postmodern Jukebox rocked Prague and we rolled with 'em"
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "Yet Another Helsinki Trip",
-      "link"			: "http://blog.danekja.org/blog/helsinki-again/",
+      "link"			: "http://www.danekja.org/blog/helsinki-again/",
       "excerpt"		: "One would think that after spending so much time in Helsinki, there is not too much to be discovered. Well, I've been proven wrong once again."
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "About Me",
-      "link"			: "http://blog.danekja.org/about/",
+      "link"			: "http://www.danekja.org/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
